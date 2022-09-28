@@ -1,0 +1,10 @@
+.buttonss{
+    display: flex;
+    flex-direction: row;
+    gap:5px;
+    text-decoration: none;
+}
+
+.btn-cls{
+    text-decoration: none;
+}
